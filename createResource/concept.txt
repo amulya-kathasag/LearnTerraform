@@ -1,0 +1,3 @@
+
+#terraform init -> install plugin
+#terraform provider ->list the providers used
