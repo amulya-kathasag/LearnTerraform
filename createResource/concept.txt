@@ -1,3 +1,11 @@
 
 #terraform init -> install plugin
 #terraform provider ->list the providers used
+#tfstatefile -> stores the state of the resources 
+# terraform destroy -> will destroy all the resources created
+# terraform destroy --target github_repository.terradorm-first-repo -> will delete specified resource
+#terraform refresh -> if other developer modify the changes in resource it will update in local tfstatefile
+#terraform console 
+ echos the values of the given parameters/variables
+
+ #terraform fmt -> structures the spaces/identation in files
